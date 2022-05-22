@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{8D38DD55-2AD4-42AD-A286-C4617F868998}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazor", "Blazor\Blazor.csproj", "{A15B68DF-345D-4BE7-84ED-C66BE59EE340}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileData", "FileData\FileData.csproj", "{577FEC8C-0A6F-4F3C-9D49-E6DAD2E4D5AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{96F124B9-D0A0-4398-A27E-CAAEE5626C43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A15B68DF-345D-4BE7-84ED-C66BE59EE340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A15B68DF-345D-4BE7-84ED-C66BE59EE340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A15B68DF-345D-4BE7-84ED-C66BE59EE340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A15B68DF-345D-4BE7-84ED-C66BE59EE340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{577FEC8C-0A6F-4F3C-9D49-E6DAD2E4D5AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{577FEC8C-0A6F-4F3C-9D49-E6DAD2E4D5AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{577FEC8C-0A6F-4F3C-9D49-E6DAD2E4D5AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{577FEC8C-0A6F-4F3C-9D49-E6DAD2E4D5AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D38DD55-2AD4-42AD-A286-C4617F868998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D38DD55-2AD4-42AD-A286-C4617F868998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96F124B9-D0A0-4398-A27E-CAAEE5626C43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96F124B9-D0A0-4398-A27E-CAAEE5626C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96F124B9-D0A0-4398-A27E-CAAEE5626C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96F124B9-D0A0-4398-A27E-CAAEE5626C43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal

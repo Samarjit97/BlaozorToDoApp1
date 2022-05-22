@@ -1,0 +1,7 @@
+C:\c sharp\BlaozorToDoApp1\WebAPI\obj\Release\net6.0\WebAPI.csproj.AssemblyReference.cache
+C:\c sharp\BlaozorToDoApp1\WebAPI\obj\Release\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\c sharp\BlaozorToDoApp1\WebAPI\obj\Release\net6.0\WebAPI.AssemblyInfoInputs.cache
+C:\c sharp\BlaozorToDoApp1\WebAPI\obj\Release\net6.0\WebAPI.AssemblyInfo.cs
+C:\c sharp\BlaozorToDoApp1\WebAPI\obj\Release\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\c sharp\BlaozorToDoApp1\WebAPI\obj\Release\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\c sharp\BlaozorToDoApp1\WebAPI\obj\Release\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,15 @@
+C:\c sharp\BlaozorToDoApp1\FileData\bin\Release\net6.0\FileData.deps.json
+C:\c sharp\BlaozorToDoApp1\FileData\bin\Release\net6.0\FileData.dll
+C:\c sharp\BlaozorToDoApp1\FileData\bin\Release\net6.0\FileData.pdb
+C:\c sharp\BlaozorToDoApp1\FileData\bin\Release\net6.0\Domain.dll
+C:\c sharp\BlaozorToDoApp1\FileData\bin\Release\net6.0\Domain.pdb
+C:\c sharp\BlaozorToDoApp1\FileData\obj\Release\net6.0\FileData.csproj.AssemblyReference.cache
+C:\c sharp\BlaozorToDoApp1\FileData\obj\Release\net6.0\FileData.GeneratedMSBuildEditorConfig.editorconfig
+C:\c sharp\BlaozorToDoApp1\FileData\obj\Release\net6.0\FileData.AssemblyInfoInputs.cache
+C:\c sharp\BlaozorToDoApp1\FileData\obj\Release\net6.0\FileData.AssemblyInfo.cs
+C:\c sharp\BlaozorToDoApp1\FileData\obj\Release\net6.0\FileData.csproj.CoreCompileInputs.cache
+C:\c sharp\BlaozorToDoApp1\FileData\obj\Release\net6.0\FileData.csproj.CopyComplete
+C:\c sharp\BlaozorToDoApp1\FileData\obj\Release\net6.0\FileData.dll
+C:\c sharp\BlaozorToDoApp1\FileData\obj\Release\net6.0\refint\FileData.dll
+C:\c sharp\BlaozorToDoApp1\FileData\obj\Release\net6.0\FileData.pdb
+C:\c sharp\BlaozorToDoApp1\FileData\obj\Release\net6.0\ref\FileData.dll
